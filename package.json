@@ -1,0 +1,12 @@
+{
+  "name": "wg.lemonjs.org",
+  "description": "webgradients lemon library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lemon/wg.lemonjs.org"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lemonjs-wg": "file:../../lemonjs-wg"
+  }
+}

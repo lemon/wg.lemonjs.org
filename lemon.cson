@@ -1,0 +1,13 @@
+{
+  name: 'WebGradients for Lemon'
+  deploy: {
+    service: 'github'
+  }
+  prod: {
+    hostname: 'wg.lemonjs.org'
+  }
+  packages: [
+    'lemonjs-wg'
+    'lemonjs-lui'
+  ]
+}
